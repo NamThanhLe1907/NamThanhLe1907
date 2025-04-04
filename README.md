@@ -21,14 +21,9 @@ I am a **Junior AI Engineer** with hands-on experience in **Artificial Intellige
 
 ![NamThanhLe1907's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamThanhLe1907&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamThanhLe1907&theme=dracula)
 
 ## 📫 Contact Me
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: namthanhle1907@example.com
 
 Let's connect and create something remarkable together! 🚀
