@@ -43,11 +43,12 @@ Here are the projects I am most proud of, showcasing my abilities and passion fo
 
 - **🤖 AI Customer Service Chatbot**  
   An intelligent virtual assistant developed with **LangGraph**, providing personalized and efficient customer support experiences.  
-  🔗 [View Project]([https://github.com/NamThanhLe1907/chatbot](https://github.com/NamThanhLe1907/langchain-rag))
+  🔗 [View Project](https://github.com/NamThanhLe1907/langchain-rag)
 
 - **🖼️ Object Detection Models**  
   Implemented advanced models like **YOLO** and **GroundingDINO** for real-time object recognition and localization with high accuracy.  
   🔗 [View Project](https://github.com/metwaroi31/Image-to-address)
+  
   🔗 [View Project](https://github.com/NamThanhLe1907/Graduation-Thesis)
 ---
 
