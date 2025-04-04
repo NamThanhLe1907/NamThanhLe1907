@@ -6,26 +6,36 @@ I am a passionate **Junior AI Engineer** specializing in **Artificial Intelligen
 
 ## 🔧 Skills & Technologies ⚙️
 
-I have worked with various tools and programming languages to bring ideas to life. Here are my key skills:
+I have experience with various programming languages and tools that bring ideas to life. Here are my key skills:
 
 - **Programming Languages**:  
-  - 🐍 **Python**: My favorite language for AI and Machine Learning development.  
-  - 💻 **JavaScript**: For creating interactive interfaces and web applications.
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+    Proficient in Python, specializing in AI and Machine Learning development.
+  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+    Familiar with C++ for performance-critical applications.
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
+    Basic knowledge of C programming language.
 
 - **Frameworks & Libraries**:  
-  - 🤖 **TensorFlow**: Building powerful deep learning models.  
-  - 🔥 **PyTorch**: Flexible and optimized for AI research.  
-  - 📸 **OpenCV**: Image processing and object detection.
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+    Building powerful deep learning models.
+  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+    Flexible and optimized for AI research.
+  - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+    Image processing and object detection.
 
 - **Tools**:  
-  - 🐳 **Docker**: Easy packaging and deployment of applications.  
-  - 📓 **Google Colab**: Where I quickly test ideas.
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+    Easy packaging and deployment of applications.
+  - ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)  
+    Rapid prototyping and collaboration.
 
 - **APIs**:  
-  - 🤗 **HuggingFace**: Leveraging advanced NLP models.  
-  - 🧠 **OpenAI**: Exploring the power of next-generation AI.
+  - ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFDA00?logo=huggingface&logoColor=white)  
+    Leveraging advanced NLP models.
+  - ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)  
+    Exploring the power of next-generation AI.
 
----
 
 ## 🚀 Featured Projects 🌟
 
