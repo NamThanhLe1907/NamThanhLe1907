@@ -17,12 +17,17 @@ I have experience with various programming languages and tools that bring ideas 
     Basic knowledge of C programming language.
 
 - **Frameworks & Libraries**:  
-  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-    Building powerful deep learning models.
-  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-    Flexible and optimized for AI research.
+  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+    Efficient numerical processing library for scientific computing.
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+    A powerful tool for data analysis and manipulation.
   - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
     Image processing and object detection.
+  - ![YOLO](https://img.shields.io/badge/-YOLO-FF0000?logo=&logoColor=white)  
+    Real-time object detection with high performance.
+  - ![LangGraph](https://img.shields.io/badge/-LangGraph-009688?logo=&logoColor=white)  
+    A flexible framework for language processing and visualization.
+
 
 - **Tools**:  
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
