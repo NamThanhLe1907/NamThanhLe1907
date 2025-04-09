@@ -2,45 +2,6 @@
 
 I am a passionate **Junior AI Engineer** specializing in **Artificial Intelligence (AI)**, **Machine Learning**, **Optical Character Recognition (OCR)**, and **Image Detection**. I am enthusiastic about building intelligent systems that solve real-world problems and enhance user experiences. Let's create something amazing together! 🚀
 
----
-
-## 🔧 Skills & Technologies ⚙️
-
-I have experience with various programming languages and tools that bring ideas to life. Here are my key skills:
-
-- **Programming Languages**:  
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-    Proficient in Python, specializing in AI and Machine Learning development.
-  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-    Familiar with C++ for performance-critical applications.
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
-    Basic knowledge of C programming language.
-
-- **Frameworks & Libraries**:  
-  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-    Efficient numerical processing library for scientific computing.
-  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-    A powerful tool for data analysis and manipulation.
-  - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-    Image processing and object detection.
-  - ![YOLO](https://img.shields.io/badge/-YOLO-FF0000?logo=&logoColor=white)  
-    Real-time object detection with high performance.
-  - ![LangGraph](https://img.shields.io/badge/-LangGraph-009688?logo=&logoColor=white)  
-    A flexible framework for language processing and visualization.
-
-
-- **Tools**:  
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-    Easy packaging and deployment of applications.
-  - ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)  
-    Rapid prototyping and collaboration.
-
-- **APIs**:  
-  - ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFDA00?logo=huggingface&logoColor=white)  
-    Leveraging advanced NLP models.
-  - ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)  
-    Exploring the power of next-generation AI.
-
 
 ## 🚀 Featured Projects 🌟
 
